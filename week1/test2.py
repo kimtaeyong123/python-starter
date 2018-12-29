@@ -1,5 +1,4 @@
 FruitList = ["apple", "banana"]
-
 for Fruitname in FruitList:
     if Fruitname == "apple":
         print(3000)
@@ -12,3 +11,6 @@ for i in range(1, 10):
     count = count + 1
 
 print(count)
+
+a = range(11)
+print(a)
