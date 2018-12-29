@@ -8,3 +8,4 @@ for Fruitname in range(len(aFruitList)):
         print("바나나는 1000원입니다")
     else:
         print("그 과일은 안팝니다")
+

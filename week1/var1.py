@@ -12,7 +12,11 @@ print(a+b)
 #카멜케이스와 파스칼표기법을 사용하는 이유는 협업을 위해서.
 # int a, string b
 # aFruitList, iNumber, sName
-
+#len()는 길이를 구한다
+#str()은 정수나 실수를 문자열의 형태로 바꾸어 주는 파이썬의 내장 함수이다
+a = [1,2,3,4,5]
+b = a[:2]
+print(b)
 
 
 
