@@ -18,5 +18,11 @@ a = [1,2,3,4,5]
 b = a[:2]
 print(b)
 
+Array -> aFruitList
+Int -> iNumber
+String -> sName
 
-
+drung = 0
+for i in range(1,11):
+    drung = drung + i
+    print(drung)

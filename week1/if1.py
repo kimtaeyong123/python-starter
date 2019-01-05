@@ -6,7 +6,7 @@ elif inputName == 'apple':
 elif inputName == 'orange':
     print(2000)
 else:
-    print("없는 과일이에유")
+    print("없는 과일입니다")
 
 # =은 대입
 # == != <= >=

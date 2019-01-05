@@ -13,10 +13,11 @@ else:
 print("안녕! {0}, 나이가 {1}이네!!" .format(친구이름,나이))
 
 
-money=2000
-if money > 3000:
+money=6000
+if money < 2000:
     print("버스타라")
-elif money > 1000:
+elif money > 5000:
     print("택시 타라")
 else:
     print("걸어가라")
+
